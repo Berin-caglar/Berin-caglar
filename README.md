@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berin.</h1>
-<h3 align="center">An aspiring Data Science Student.</h3>
+<h3 align="center">An aspiring Data Science Student at University of Applied Sciences Neu-Ulm. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
