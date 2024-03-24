@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berin :). Welcome to my GitHub Repository! </h1>
+<h1 align="center">Hi 👋, I'm Berin :) </h1>
+  <h2 Welcome to my GitHub Repository! </h2>
 <h3 align="center"> I am an aspiring Data Science Student at University of Applied Sciences Neu-Ulm where I delve into the fascinating world of data science, sharing my projects and insights as I embark on this enriching learning journey!" </h3>
 
 <h3 align="left">Connect with me:</h3>
