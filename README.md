@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Berin </h1>
 <h1 align="center">Welcome to my personal GitHub Repository!</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=berincaglar&style=flat-square&color=blue" alt="Visitor Badge" />
+</p>
+
 <h3 align="center">I am currently in my final semester of the Data Science Management Bachelor program. Soon I will begin my Master studies and my great passion lies in Machine Learning and Deep Learning!</h3>
+
+<h3 align="left">🔭 Currently working on</h3>
+<p align="left">I am developing my first Computer Vision project in preparation for my upcoming Master studies.</p>
+
+<h3 align="left">🌱 Currently learning</h3>
+<p align="left">I am deepening my knowledge in PyTorch and exploring advanced Deep Learning architectures.</p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <a href="https://github.com/berincaglar">
+    <img src="https://github-readme-stats.vercel.app/api?username=berincaglar&show_icons=true&theme=radical" alt="berincaglar's GitHub stats" height="150" />
+  </a>
+  <a href="https://github.com/berincaglar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berincaglar&layout=compact&theme=radical" alt="berincaglar's Top Languages" height="150" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
