@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berin </h1>
 <h1 align="center">Welcome to my personal GitHub Repository!</h1>
-<h3 align="center">I am 24 years old and currently in my final semester of the Data Science Management Bachelor program. Soon I will begin my Master studies focusing on Artificial Intelligence and Computer Vision. My great passion lies in Machine Learning and Deep Learning where I see my future career path!</h3>
+<h3 align="center">I am currently in my final semester of the Data Science Management Bachelor program. Soon I will begin my Master studies focusing on Artificial Intelligence and Computer Vision. My great passion lies in Machine Learning and Deep Learning where I see my future career path!</h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
